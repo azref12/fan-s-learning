@@ -1,0 +1,45 @@
+site_name : My Documentation
+site_url : https://fan's-learning.com/
+
+theme : 
+    name : material
+    features : 
+      - search.suggest
+      - search.highlight
+      - content.tabs.link
+      - navigation.instant
+      - navigation.instant.prefetch
+
+    palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+    font:
+      text: Roboto
+
+markdown_extensions:
+  - def_list
+  - tables
+  - attr_list
+
+nav :
+  - Home : "index.md"
+  - HTML :
+      - Introduction : "html/html_introduction.md"
+      - Tags in HTML : "html/html_structure.md"
+
+  - CSS :
+    - Introduction : "css/css_introduction.md"
+
+  - Framework :
+    - Introduction : "framework/introduction.md"
+    - Types of Frameworks : "framework/jenis2_framework.md"
