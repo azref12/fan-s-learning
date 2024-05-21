@@ -7,7 +7,7 @@ CSS (Cascading Style Sheet) adalah bahasa pemrograman yang digunakan untuk menga
 ###### Bootstrap 
 Framework ini memiliki tampilan yang modern, dinamis, dan juga lebih ramah pengguna. Fitur lain dari framework ini adalah website yang dibuat menggunakan bootstrap ini akan responsive jika dibuat dengan mengikuti aturan-aturan yang disediakan bootstrap.
 
-####### Fitur unggulan :
+####### Fitur unggulan
 * Desain responsif. Menawarkan sistem grid yang powerful untuk desain responsif, cepat, dan mudah. 
 * Kaya akan fitur. Memiliki banyak fitur untuk kebutuhan front-end. Mulai dari layout, website template, tema, panel admin, dan banyak koleksi komponen user interface (UI). Ada juga aneka model desain untuk tombol, formulir, kartu, notifikasi yang semuanya bisa menghemat waktu tim desainer Anda.
 * Cocok untuk pemula. Bootstrap sudah memfasilitasi Anda dengan banyak tutorial dan guideline yang mudah diikuti.
@@ -18,7 +18,7 @@ Framework ini memiliki tampilan yang modern, dinamis, dan juga lebih ramah pengg
 ###### Semantic UI
 Framework ini memiliki kelebihan dalam penulisan class yang lebih mudah dibandingkan framework lain. Selain itu ia juga menyediakan banyak komponen UI yang berguna untuk membuat tampilan HTML menjadi lebih menarik.
 
-####### Fitur unggulan :
+####### Fitur unggulan
 * Penulisan class yang mudah. Karena menganut human-friendly HTML, Anda bisa mengembangkan penulisan dan mengingat setiap class secara mudah.
 * Kaya akan variabel tema dan komponen UI. Semantic UI mempunyai ribuan pilihan variabel tema dan komponen UI yang responsif. Bahkan, secara default elemen mereka sudah terlihat sangat apik dibanding milik Bootstrap. 
 * Kode JavaScript yang intuitif. Kode sangat mudah dipahami sehingga tidak terlalu sulit untuk dikembangkan.
@@ -39,12 +39,12 @@ JavaScript merupakan bahasa pemrograman yang sering digunakan oleh para front en
 ##### AngularJS 
 Framework AngularJS ini bersifat open source dan ia berjalan pada sisi client dengan menggunakan konsep MVC untuk membuat tampilan dari website menjadi lebih dinamis.
 
-####### Bagian utama yang menjadi komponen penting, yaitu :
+####### Bagian utama yang menjadi komponen penting
 - ng-app – Arahan dan link dari AngularJS ke HTML.
 - ng-model – Arahan data dari app AngularJS ke input kontrol HTML.
 - ng-bind – Arahan data dari app AngularJS ke tag HTML.
 
-####### Fitur-Fitur AngularJS :
+####### Fitur-Fitur AngularJS
 * Directives – Memudahkan dalam mengatur DOM JavaScript, sehingga bisa menghasilkan konten berformat HTML yang lebih dinamis.
 * Hierarchical Injections – Memudahkan pengelolaan kode untuk pengujian dan penggunaan ulang
 * Two-way Data Binding – Memudahkan sinkronisasi antara model dan view.
@@ -59,7 +59,7 @@ Framework AngularJS ini bersifat open source dan ia berjalan pada sisi client de
 * Deep Linking – Mengizinkan developer untuk melakukan encode aplikasi dalam URL, mem-bookmark, dan me-restore kondisi terakhir pada URL.
 * Dependency Injection – Developer dapat menulis komponen atau kode secara terpisah satu sama lain, sehingga memudahkan uji coba dan mengembangkan program.
 
-####### Kelebihan AngularJS :
+####### Kelebihan AngularJS
 * AngularJS dengan TypeScript memiliki konsep Object Oriented Programming atau berbasis objek, sehingga proses menjadi fleksibel dan jauh lebih mudah dikelola.
 * Dapat digunakan untuk membangun program yang kompleks seperti, website berskala besar, native app, PWA yang berkinerja tinggi, hingga RIA (Rich Internet App).
 * Pembagian kerja skema MVC (Model, View, Controller), dimana JavaScript sebagai kontrol dan HTML sebagai View. Sehingga, 
@@ -72,7 +72,7 @@ Framework AngularJS ini bersifat open source dan ia berjalan pada sisi client de
 * Terdapat RxJs atau reactive JavaScript, sebuah tools yang dapat menampung segala ketidaksinkronan. Sehingga, kode dapat berjalan meskipun aplikasi masih melakukan permintaan ke server.
 * Memungkinkan untuk mengelola Single Page Application dengan mudah.
 
-####### Kekurangan AngularJS :
+####### Kekurangan AngularJS
 * Aturan penulisan kode cukup rumit, sehingga agak sulit bagi pemula.
 * Struktur aplikasi yang dihasilkan cenderung lebih rumit, sehingga bisa menurunkan kinerja aplikasi.
 * Kurang SEO Friendly.
@@ -84,7 +84,7 @@ Framework AngularJS ini bersifat open source dan ia berjalan pada sisi client de
 ##### ReactJS 
 ReactJS adalah framework yang dikembangkan oleh Facebook. Ia sering digunakan untuk membuat UI untuk suatu website atau aplikasi mobile karena ReactJS ini dapat digunakan secara multi platform. ReactJS ini merupakan inti dari React Native yang dapat memungkinkan kamu untuk mengembangkan aplikasi mobile di dua sistem operasi secara bersamaan, yaitu Android dan iOS.
 
-####### Fitur-Fitur React :
+####### Fitur-Fitur React
 * Virtual DOM – Digunakan untuk menyimpan berbagai perubahan kode.
 * Libraries Integration – Dapat dihubungkan dan digunakan bersama dengan berbagai library berbasis JavaScript.
 * JSX (JavaScript XML) – Ekstensi sintaks JavaScript untuk memudahkan modifikasi DOM dengan kode HTML. 
@@ -93,7 +93,7 @@ ReactJS adalah framework yang dikembangkan oleh Facebook. Ia sering digunakan un
 * Flux – Arsitektur aplikasi yang mengontrol aliran data ke komponen melalui satu titik kontrol, yaitu operator.
 * React Views – Untuk melihat hasil dari program yang sedang dibangun.
 
-####### Kelebihan React :
+####### Kelebihan React
 * Menggunakan DOM Virtual yang lebih cepat dari DOM biasa.
 * DOM Virtual akan terupdate ketika melakukan penulisan kode karena dapat tersimpan ke memori.
 * Komponen yang terstruktur dan sederhana.
@@ -104,7 +104,7 @@ ReactJS adalah framework yang dikembangkan oleh Facebook. Ia sering digunakan un
 * SEO Friendly.
 * Memiliki komunitas yang besar.
 
-####### Kekurangan React :
+####### Kekurangan React
 * Lebih berfokus pada tampilan.
 * Dokumentasi yang berubah-ubah karena sering adanya update.
 * JSX lebih sulit dipelajari oleh pemula.
@@ -115,7 +115,7 @@ PHP (Hypertext Preprocessor) adalah bahasa pemrograman yang digunakan untuk komu
 ###### CodeIgniter 
 CodeIgniter atau dapat disingkat menjadi CI merupakan framework dengan arsitektur yang khas, yaitu arsitektur MVC (Model, View, controller). Dengan begitu kamu dapat menulis kode dengan lebih terstruktur dan spesifik.
 
-####### Keunggulan Utama :
+####### Keunggulan Utama
 * Framework ringan dengan performa yang dapat diandalkan.
 * Mudah dipahami dan digunakan berkat adanya informasi bantuan dan tutorial CodeIgniter.
 * Membuat aplikasi yang mudah diskalakan dengan menggunakan arsitektur framework berbasis MVC.
@@ -123,7 +123,7 @@ CodeIgniter atau dapat disingkat menjadi CI merupakan framework dengan arsitektu
 ###### Laravel 
 Laravel ini biasanya digunakan oleh para developer untuk mengembangkan website dengan kompleksitas yang tinggi. Ia memiliki library yang lengkap serta memilih sintaksis atau kode yang elegan, ringkas, dan rapi.
 
-####### Keunggulan Utama :
+####### Keunggulan Utama
 * Memiliki syntax yang mudah dipahami dan dipelajari.
 * Fungsionalitas intinya dapat dikembangkan dengan menggunakan add-ons.
 * Menyediakan fungsi bawaan untuk mengelola routing, manajemen user, caching, dan lain sebagainya.
@@ -133,7 +133,7 @@ Laravel ini biasanya digunakan oleh para developer untuk mengembangkan website d
 ###### Symfony
 Symfony ini cocok digunakan untuk mengembangkan website dengan skala yang besar dan kompleks. Ia juga memakan sedikit memori jika dibandingkan dengan framework lainnya dan menghasilkan performa yang tinggi.
 
-####### Keunggulan Utama :
+####### Keunggulan Utama
 * Framework yang sangat fleksibel sehingga Anda dapat mengaktifkan masing-masing komponen.
 * Menyediakan fungsionalitas testing bawaan.
 * Memiliki informasi bantuan dan tutorial yang dapat diandalkan.
