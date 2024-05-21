@@ -5,4 +5,4 @@ A collection of material about HTML, CSS, and others. Aims for self-learning  an
 Note : All the information I write, I get from several sources.
 
 ###### About Writers 
-Click here for more information [about_me](https://www.linkedin.com/in/azmi-refani-223482207/)
+Click here for more information [about_me](https://about.me/azmi_refani)
