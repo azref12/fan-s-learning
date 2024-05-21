@@ -26,7 +26,7 @@ Framework ini memiliki kelebihan dalam penulisan class yang lebih mudah dibandin
 ###### Materialize CSS
 Framework ini dibuat dengan tujuan untuk mengembangkan desain yang memungkinkan pengguna merasakan pengalaman yang serupa saat menggunakan produk di semua platform. Materialize ini mengadaptasi Material Design yang dibuat dan dikembangkan oleh Google.
 
-####### Fitur unggulan :
+####### Fitur unggulan
 * Banyak fitur built-in. Framework ini menawarkan ragam fitur bawaan yang dinamis, mudah digunakan, modern, flow text, parallax element, dan masih banyak lagi.  
 * Meminimalisir waktu coding. Saking banyaknya fitur unggul yang dibawakan oleh Materizalie, waktu coding Anda bisa jauh lebih singkat.
 * Banyak plugin unggul. Materialize juga menawarkan banyak pilihan plugins untuk mengembangkan UI pada website atau aplikasi Anda. 
