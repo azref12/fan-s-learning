@@ -59,4 +59,4 @@ Selain HTML, ada beberapa teknologi dan bahasa pemrograman lain yang sangat pent
 - Prinsip Desain Responsif : Memahami cara merancang situs web yang responsif untuk berbagai perangkat dan layar adalah penting dalam dunia web yang semakin beragam.
 - Pengoptimalan Kinerja dan SEO : Belajar cara mengoptimalkan situs web Anda untuk kinerja yang baik dan praktik SEO akan membantu situs Anda mendapatkan lalu lintas dan berkinerja baik di mesin pencari.
 
-Source By [html_introduction_3](https://badoystudio.com/tag-html/#Selain_HTML_Apalagi_yang_Harus_Dikuasai)
+Source : [html_introduction_3](https://badoystudio.com/tag-html/#Selain_HTML_Apalagi_yang_Harus_Dikuasai)

@@ -1,4 +1,4 @@
-site_name : My Documentation
+site_name : Fan's Libraries
 site_url : https://fan's-learning.com/
 
 theme : 
@@ -33,13 +33,14 @@ markdown_extensions:
 
 nav :
   - Home : "index.md"
-  - HTML :
-      - Introduction : "html/html_introduction.md"
-      - Tags in HTML : "html/html_structure.md"
-
   - CSS :
     - Introduction : "css/css_introduction.md"
-
   - Framework :
     - Introduction : "framework/introduction.md"
     - Types of Frameworks : "framework/jenis2_framework.md"
+  - HTML :
+    - Introduction : "html/html_introduction.md"
+    - Tags in HTML : "html/html_structure.md"
+  - Programming Language : 
+    - Introduction : "pl/introduction.md"
+    - Types of Programming Languages : "pl/types_of_pl.md"

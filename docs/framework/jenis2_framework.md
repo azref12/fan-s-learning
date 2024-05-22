@@ -5,9 +5,7 @@ Ada beragam jenis framework yang sering digunakan untuk membuat website. Setiap 
 CSS (Cascading Style Sheet) adalah bahasa pemrograman yang digunakan untuk mengatur layout dan tampilan pada HTML agar menjadi lebih menarik. Biasanya CSS ini dibuat oleh front-end developer. Berikut ini adalah beberapa contoh dari framework CSS.
 
 ###### Bootstrap 
-Framework ini memiliki tampilan yang modern, dinamis, dan juga lebih ramah pengguna. Fitur lain dari framework ini adalah website yang dibuat menggunakan bootstrap ini akan responsive jika dibuat dengan mengikuti aturan-aturan yang disediakan bootstrap.
-
-####### Fitur unggulan
+Framework ini memiliki tampilan yang modern, dinamis, dan juga lebih ramah pengguna. Fitur lain dari framework ini adalah website yang dibuat menggunakan bootstrap ini akan responsive jika dibuat dengan mengikuti aturan-aturan yang disediakan bootstrap. Fitur unggulan :
 * Desain responsif. Menawarkan sistem grid yang powerful untuk desain responsif, cepat, dan mudah. 
 * Kaya akan fitur. Memiliki banyak fitur untuk kebutuhan front-end. Mulai dari layout, website template, tema, panel admin, dan banyak koleksi komponen user interface (UI). Ada juga aneka model desain untuk tombol, formulir, kartu, notifikasi yang semuanya bisa menghemat waktu tim desainer Anda.
 * Cocok untuk pemula. Bootstrap sudah memfasilitasi Anda dengan banyak tutorial dan guideline yang mudah diikuti.
@@ -16,17 +14,15 @@ Framework ini memiliki tampilan yang modern, dinamis, dan juga lebih ramah pengg
 * Flexbox. Model layout yang berguna untuk mengatur elemen suatu website atau aplikasi. Bertujuan agar Anda bisa mengatur panjang, lebar, dan posisi setiap elemen supaya tidak berhimpit satu dengan yang lainnya.
 
 ###### Semantic UI
-Framework ini memiliki kelebihan dalam penulisan class yang lebih mudah dibandingkan framework lain. Selain itu ia juga menyediakan banyak komponen UI yang berguna untuk membuat tampilan HTML menjadi lebih menarik.
+Framework ini memiliki kelebihan dalam penulisan class yang lebih mudah dibandingkan framework lain. Selain itu ia juga menyediakan banyak komponen UI yang berguna untuk membuat tampilan HTML menjadi lebih menarik. Fitur unggulan :
 
-####### Fitur unggulan
 * Penulisan class yang mudah. Karena menganut human-friendly HTML, Anda bisa mengembangkan penulisan dan mengingat setiap class secara mudah.
 * Kaya akan variabel tema dan komponen UI. Semantic UI mempunyai ribuan pilihan variabel tema dan komponen UI yang responsif. Bahkan, secara default elemen mereka sudah terlihat sangat apik dibanding milik Bootstrap. 
 * Kode JavaScript yang intuitif. Kode sangat mudah dipahami sehingga tidak terlalu sulit untuk dikembangkan.
 
 ###### Materialize CSS
-Framework ini dibuat dengan tujuan untuk mengembangkan desain yang memungkinkan pengguna merasakan pengalaman yang serupa saat menggunakan produk di semua platform. Materialize ini mengadaptasi Material Design yang dibuat dan dikembangkan oleh Google.
+Framework ini dibuat dengan tujuan untuk mengembangkan desain yang memungkinkan pengguna merasakan pengalaman yang serupa saat menggunakan produk di semua platform. Materialize ini mengadaptasi Material Design yang dibuat dan dikembangkan oleh Google. Fitur unggulan :
 
-####### Fitur unggulan
 * Banyak fitur built-in. Framework ini menawarkan ragam fitur bawaan yang dinamis, mudah digunakan, modern, flow text, parallax element, dan masih banyak lagi.  
 * Meminimalisir waktu coding. Saking banyaknya fitur unggul yang dibawakan oleh Materizalie, waktu coding Anda bisa jauh lebih singkat.
 * Banyak plugin unggul. Materialize juga menawarkan banyak pilihan plugins untuk mengembangkan UI pada website atau aplikasi Anda. 
@@ -113,17 +109,15 @@ ReactJS adalah framework yang dikembangkan oleh Facebook. Ia sering digunakan un
 PHP (Hypertext Preprocessor) adalah bahasa pemrograman yang digunakan untuk komunikasi dari sisi server. Berikut ini adalah beberapa framework PHP yang populer digunakan dalam pembuatan website.
 
 ###### CodeIgniter 
-CodeIgniter atau dapat disingkat menjadi CI merupakan framework dengan arsitektur yang khas, yaitu arsitektur MVC (Model, View, controller). Dengan begitu kamu dapat menulis kode dengan lebih terstruktur dan spesifik.
+CodeIgniter atau dapat disingkat menjadi CI merupakan framework dengan arsitektur yang khas, yaitu arsitektur MVC (Model, View, controller). Dengan begitu kamu dapat menulis kode dengan lebih terstruktur dan spesifik. Keunggulan utama :
 
-####### Keunggulan Utama
 * Framework ringan dengan performa yang dapat diandalkan.
 * Mudah dipahami dan digunakan berkat adanya informasi bantuan dan tutorial CodeIgniter.
 * Membuat aplikasi yang mudah diskalakan dengan menggunakan arsitektur framework berbasis MVC.
 
 ###### Laravel 
-Laravel ini biasanya digunakan oleh para developer untuk mengembangkan website dengan kompleksitas yang tinggi. Ia memiliki library yang lengkap serta memilih sintaksis atau kode yang elegan, ringkas, dan rapi.
+Laravel ini biasanya digunakan oleh para developer untuk mengembangkan website dengan kompleksitas yang tinggi. Ia memiliki library yang lengkap serta memilih sintaksis atau kode yang elegan, ringkas, dan rapi. Keunggulan utama :
 
-####### Keunggulan Utama
 * Memiliki syntax yang mudah dipahami dan dipelajari.
 * Fungsionalitas intinya dapat dikembangkan dengan menggunakan add-ons.
 * Menyediakan fungsi bawaan untuk mengelola routing, manajemen user, caching, dan lain sebagainya.
@@ -131,14 +125,13 @@ Laravel ini biasanya digunakan oleh para developer untuk mengembangkan website d
 * Menjalankan task secara asynchronously di background untuk meningkatkan performa.
 
 ###### Symfony
-Symfony ini cocok digunakan untuk mengembangkan website dengan skala yang besar dan kompleks. Ia juga memakan sedikit memori jika dibandingkan dengan framework lainnya dan menghasilkan performa yang tinggi.
+Symfony ini cocok digunakan untuk mengembangkan website dengan skala yang besar dan kompleks. Ia juga memakan sedikit memori jika dibandingkan dengan framework lainnya dan menghasilkan performa yang tinggi. Keunggulan utama :
 
-####### Keunggulan Utama
 * Framework yang sangat fleksibel sehingga Anda dapat mengaktifkan masing-masing komponen.
 * Menyediakan fungsionalitas testing bawaan.
 * Memiliki informasi bantuan dan tutorial yang dapat diandalkan.
 
-Source by :
+Source :
 [type_of_framework](https://www.dicoding.com/blog/apa-itu-framework/),
 [CSS_framework](https://www.niagahoster.co.id/blog/css-framework-terbaik/#1_Bootstrap),
 [Javascript_framework](https://www.niagahoster.co.id/blog/framework-javascript/),
